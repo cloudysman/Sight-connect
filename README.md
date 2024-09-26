@@ -15,6 +15,7 @@ Sight-Connect is a real-time navigation tool that uses sensor technology and vis
 1. Clone the repository:
    ```bash
    git clone https://github.com/cloudysman/Sight-connect.git
+   ```
 2. Navigate to the project directory:
   ```bash
   cd Sight-connect
@@ -32,12 +33,7 @@ navigator.set_route(start="Main Entrance", destination="Room 303")
 
 # Begin real-time navigation
 navigator.start_navigation()
-```
-
-## Documentation
-
-- [User Guide](https://example.com/user-guide)
-- [API Documentation](https://example.com/api-docs)
+   ```
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](./LICENSE.md) file.
