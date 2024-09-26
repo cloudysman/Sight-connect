@@ -1,0 +1,1 @@
+Edge A Eye main development repository. We are building an app to help visually impaired people navigate indoor. Android only app for now. Based on the situm technology

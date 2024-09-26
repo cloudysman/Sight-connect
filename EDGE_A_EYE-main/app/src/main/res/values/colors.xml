@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a1df</color>
+    <color name="colorPrimaryDark">#0075c9</color>
+    <color name="colorAccent">#b2b2b2</color>
+    <color name="situm_light_gray">#b2b2b2</color>
+    <color name="situm_secondary_color">#e6e8f5</color>
+    <color name="situm_primary_color">#283380</color>
+    <color name="colorBackground">#518f89</color>
+</resources>

@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="show_map"
+        android:title="show_map"
+        android:defaultValue="true"
+        android:layout="@layout/custom_preference" />
+
+    <SwitchPreferenceCompat
+        android:key="UtiliserAcensceur"
+        android:title="UtiliserAcensceur"
+        android:defaultValue="true"
+        android:layout="@layout/custom_preference" />
+
+    <SwitchPreferenceCompat
+        android:key="Indications_Automatiques"
+        android:title="Indications_Automatiques"
+        android:defaultValue="true"
+        android:layout="@layout/custom_preference" />
+
+    <SwitchPreferenceCompat
+        android:key="en"
+        android:title="English ?"
+        android:defaultValue="true"
+        android:layout="@layout/custom_preference" />
+
+</PreferenceScreen>
